@@ -1,0 +1,6 @@
+[submodule "SDP19_SERVER"]
+	path = SDP19_SERVER
+	url = https://github.com/Keerthi-Posina/SDP19_SERVER.git
+[submodule "SDP_CLIENT"]
+	path = SDP_CLIENT
+	url = https://github.com/Keerthi-Posina/SDP_CLIENT.git
